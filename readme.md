@@ -40,17 +40,6 @@ A blockchain-based Event Reward Management System that rewards students with ERC
 
 ---
 
-## 🔐 Roles
-
-| Role      | Permissions                          |
-| --------- | ------------------------------------ |
-| ADMIN     | Full system control                  |
-| ORGANIZER | Create events and distribute rewards |
-| STUDENT   | Earn and redeem rewards              |
-| MINTER    | Authorized token minting             |
-
----
-
 ## 🔄 System Workflow
 
 ```text
@@ -151,7 +140,7 @@ npx hardhat coverage
 
 ## 👨‍💻 Authors
 
-**Event Reward DApp Team**
+**Nipun Rao**
 
 **Version:** 1.0.0
 **Token:** ERT (Event Reward Token)
